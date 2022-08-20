@@ -1,0 +1,6 @@
+module Pods_EthereumRNBoilerplate_EthereumRNBoilerplateTests {
+  umbrella header "Pods-EthereumRNBoilerplate-EthereumRNBoilerplateTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+module react_native_rsa_native {
+  umbrella header "react-native-rsa-native-umbrella.h"
+
+  export *
+  module * { export * }
+}

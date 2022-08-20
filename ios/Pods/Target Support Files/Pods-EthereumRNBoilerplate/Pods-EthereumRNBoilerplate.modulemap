@@ -1,0 +1,6 @@
+module Pods_EthereumRNBoilerplate {
+  umbrella header "Pods-EthereumRNBoilerplate-umbrella.h"
+
+  export *
+  module * { export * }
+}

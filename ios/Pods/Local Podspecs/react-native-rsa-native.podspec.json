@@ -1,0 +1,24 @@
+{
+  "name": "react-native-rsa-native",
+  "version": "2.0.5",
+  "summary": "A native implementation of RSA key generation and encryption/decryption.",
+  "homepage": "https://github.com/amitaymolko/react-native-rsa-native#readme",
+  "license": "MIT",
+  "authors": "Amitay Molko",
+  "platforms": {
+    "ios": "10.0",
+    "tvos": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/amitaymolko/react-native-rsa-native.git",
+    "tag": "2.0.5"
+  },
+  "source_files": "ios/**/*.{h,m,swift}",
+  "swift_versions": "4.2",
+  "dependencies": {
+    "React": [
+
+    ]
+  },
+  "swift_version": "4.2"
+}
